@@ -1,0 +1,14 @@
+{
+  "ERC404ExampleUniswapV3": {
+    "name": "Test404_2",
+    "symbol": "Test404_2",
+    "dataURI": "",
+    "baseTokenURI": "https://raw.githubusercontent.com/0xacme/pandora/main/",
+    "decimals":  18,
+    "maxTotalSupplyERC721": "100000000",
+    "initialOwner": "0x127845E39ED4C20cF4D9CA77F94B732e3832c7ac",
+    "initialMintRecipient": "0x127845E39ED4C20cF4D9CA77F94B732e3832c7ac",
+    "uniswapSwapRouter": "0x531c4751Fa6322633b8d64267e4CD1358f57f295",
+    "uniswapV3NonfungiblePositionManager": "0xcAdC1CF7e2a7686b7468d1A81c2b10A7e9E7fFf5"
+  }
+}
